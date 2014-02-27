@@ -1,0 +1,15 @@
+{
+    "name": "ng-contenteditable",
+    "version": "0.0.0",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-nodeunit": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-qunit": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-karma": "*",
+        "karma-coverage": "*"
+    }
+}

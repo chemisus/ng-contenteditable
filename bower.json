@@ -1,0 +1,7 @@
+{
+  "name": "ng-contenteditable",
+  "version": "0.0.0",
+  "dependencies": {
+      "angular": "*"
+  }
+}
