@@ -18,8 +18,5 @@ function ContentEditableDirective() {
         }
     };
 }
-;(function () {
-    var app = angular.module('ContentEditable', []);
-
-    app.directive('contenteditable', [ContentEditableDirective]);
-})();
+;angular.module('ContentEditable', [])
+    .directive('contenteditable', [ContentEditableDirective]);
