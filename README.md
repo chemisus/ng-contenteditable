@@ -5,7 +5,7 @@ Angular directive that combines functionality for elements with contenteditable=
 
 First include the source:
 
-    <script src="bower_components/ng-contenteditable.min.js"></script>
+    <script src="bower_components/ng-contenteditable/dist/ng-contenteditable.min.js"></script>
 
 Second, make sure to include ContentEditable in the app:
 
